@@ -1,8 +1,12 @@
 @charset "UTF-8"; 
 
+
+
 *{      margin: 0px; 
         padding: 0px;
         box-sizing: border-box;}
+
+
 
 body {
         background-color: rgb(191, 202, 212);}
@@ -45,7 +49,7 @@ nav {
         justify-content: center;
         align-items: center;
         gap: 8px;
-        box-shadow: 10px solid black;
+        
 margin: auto;}
 
 nav > a:hover {
@@ -218,10 +222,29 @@ img {
     height: auto;
     display: block;}
 
-.bordalanche {border-top-left-radius: 0px;
-                border-top-right-radius: 0px;
-                border-bottom-left-radius: 15px;
-                border-bottom-right-radius: 15px;}
+.bordalanche {
+        border-top-left-radius: 0px;     
+        border-top-right-radius: 0px;
+        border-bottom-left-radius: 15px;    
+        border-bottom-right-radius: 15px;}
+
+.cravejado {
+        padding-bottom: 15px;
+        border-radius: 10px;} 
+
+.bobsfa {
+        margin-top: 15px;
+        background-color: #8c06e6;
+        margin: auto;
+        width: 750px;
+        border-radius: 10px;
+        height: 60px;
+        text-align: center;
+        padding-top: 15px;
+}
+.cabecalholanche {}
+
+   
 
 
 @media (max-width: 600px) {
