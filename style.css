@@ -235,13 +235,13 @@ img {
 .bobsfa {
         margin-top: 15px;
         background-color: #8c06e6;
-        margin: auto;
-        width: 750px;
+        margin: 0px auto;
         border-radius: 10px;
         height: 60px;
         text-align: center;
         padding-top: 15px;
-        max-width: auto;
+        max-width: 750px;
+        width: 100%;
 }
 .cabecalholanche {}
 
