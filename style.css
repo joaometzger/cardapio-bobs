@@ -242,6 +242,8 @@ img {
         padding-top: 15px;
         max-width: 750px;
         width: 100%;
+        display: flex;
+        justify-content: center;
 }
 .cabecalholanche {}
 
