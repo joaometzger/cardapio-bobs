@@ -45,6 +45,7 @@ nav {
         justify-content: center;
         align-items: center;
         gap: 8px;
+        box-shadow: 10px solid black;
 margin: auto;}
 
 nav > a:hover {
