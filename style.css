@@ -41,7 +41,7 @@ nav {
         border-radius: 15px;
         font-weight: bold;
         background-color: white;
-        height: 100px;
+        height: 120px;
         max-width: 750px;
         width: 100%;
         flex-wrap: wrap;
@@ -170,7 +170,8 @@ footer {
 
 .inicial {
         padding: 10px;
-        color: white;}
+        color: white;
+        font-size: 2em;}
 
 a >h2:hover {
         background-color: aliceblue;
@@ -242,10 +243,65 @@ img {
         width: 100%;
         display: flex;
         justify-content: center;
+
         
 }
+
+        
+
+
+ul {
+    list-style-position: inside;
+    padding-left: 0;
+    margin: 0;
+}
+
 .cabecalholanche {}
 
+.hellokitty {background-color: #ffffff;}
+
+.playlogo {
+width: 60%;
+max-width: 350px;
+    height: auto;
+    display: block;
+margin: 0 auto;}
+
+.inicialplay {
+        background-color: #df0909;
+        width: 750px;
+        margin: 0 auto;
+        height: 35px;
+        text-align: center;
+        padding-top: 3px;
+        border-radius: 10px;}
+
+.vigenteplay {
+        color: #8c06e6;
+        font-size: 2em;}
+
+.shakemenor {
+        width: 150px;
+        max-width: 35%;
+        height: auto;
+        margin-left: 180px;}
+
+.shakeatendimento {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: auto;
+        width: 100%;
+        }
+.caixahorario {
+        width: 300px;
+        height: 190px;
+        border: 3px solid black;
+        padding-top: 5px;
+        margin-right: 160px;
+        font-size: large;
+        border-radius: 5px;
+}
    
 
 
