@@ -314,13 +314,23 @@ margin: 10px auto;
 font-size: 16px;}
 
 p {font-size: 50%;}
-h2, h3 {font-size: 100%;}
+h2, h3 {font-size: 80%;}
 div {font-size: 50%;}
 header {height: 300px;}
 nav {height: 270px;
 margin-bottom: 25px;}
 a {size: 50%;}
+h2.inicialplay {
+        width: 100%;
+        padding: 10px;
+        margin: 10px auto;
+        font-size: 16px;}
 
+.navprincipal {height: 270px;}
+
+.headerprin {height: 400px;}
+
+h2.inicial {font-size: 1em;}
 
 
 }
