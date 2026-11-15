@@ -310,27 +310,19 @@ h2.inicial {}
 
 @media (max-width: 600px) {
 
-    main {
+main {
 width: 100%;
 padding: 10px;
 margin: 10px auto;
 font-size: 16px;}
-
 p {font-size: 50%;}
 div {font-size: 50%;}
 header {height: 300px;}
 nav {height: 270px;
 margin-bottom: 25px;}
 bobsfa {height: 80px;}
-
-
-
-.navprincipal {height: 270px;}
-
-.headerprin {height: 400px;}
-
-
-}
+navprincipal {height: 270px;}
+headerprin {height: 400px;}}
 
 main.main-lanches {
         height: auto;
