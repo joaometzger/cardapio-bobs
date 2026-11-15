@@ -240,7 +240,7 @@ img {
         border-radius: 10px;
         height: 60px;
         text-align: center;
-        padding-top: 15px;
+        padding-top: 25px;
         max-width: 750px;
         width: 100%;
         display: flex;
@@ -308,21 +308,25 @@ margin: 0 auto;}
    
 h2.inicial {}
 
-@media (max-width: 600px) {
+@media (max-width: 400px) {
 
 main {
-width: 100%;
-padding: 10px;
-margin: 10px auto;
-font-size: 16px;}
-p {font-size: 50%;}
-div {font-size: 50%;}
-header {height: 300px;}
-nav {height: 270px;
-margin-bottom: 25px;}
-bobsfa {height: 80px;}
-navprincipal {height: 270px;}
-headerprin {height: 400px;}}
+        width: 100%;
+        padding: 10px;
+        margin: 10px auto;
+        font-size: 16px;}
+
+header {
+        height: 300px;}
+nav {
+        height: 270px;
+        margin-bottom: 25px;}
+.bobsfa {
+        height: 80px;}
+.navprincipal {
+        height: 270px;}
+.headerprin {
+        height: 400px;}}
 
 main.main-lanches {
         height: auto;
