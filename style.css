@@ -148,7 +148,7 @@ footer {
         
         background-image: linear-gradient(to right, #8c06e6, #8c06e600);
         color: white;
-        font-size: 1.5em;
+        font-size: 2em;
 }
 
 .main-lanches > nav {
@@ -173,7 +173,7 @@ footer {
 .inicial {
         padding: 10px;
         color: white;
-        font-size: 2em;}
+        }
 
 a >h2:hover {
         background-color: aliceblue;
@@ -279,7 +279,7 @@ margin: 0 auto;}
         border-radius: 10px;}
 
 .vigenteplay {
-        color: #8c06e6;
+        color: #ffffff;
         font-size: 2em;}
 
 .shakemenor {
@@ -306,7 +306,7 @@ margin: 0 auto;}
         border-radius: 5px;
 }
    
-
+h2.inicial {}
 
 @media (max-width: 600px) {
 
@@ -321,7 +321,7 @@ div {font-size: 50%;}
 header {height: 300px;}
 nav {height: 270px;
 margin-bottom: 25px;}
-a {size: 50%;}
+
 
 
 .navprincipal {height: 270px;}
